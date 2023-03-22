@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Ambu Vijayan! 👋
+
+## 🚀 About Me
+I'm a Bioinformatician and a R Programmer...
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/Linkedin-ambuvijayan-blue)](https://www.linkedin.com/in/ambuvijayan/)
+
+## 🛠 Skills
+R, Python, SAS...
