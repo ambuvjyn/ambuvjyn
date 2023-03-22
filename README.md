@@ -1,26 +1,12 @@
-### Hi there 👋
-
-<!--
-**ambuvjyn/ambuvjyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Ambu Vijayan! 👋
-
+### Hi, I'm Ambu Vijayan! 👋
 ## 🚀 About Me
 I'm a Bioinformatician and a R Programmer...
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/Linkedin-ambuvijayan-blue)](https://www.linkedin.com/in/ambuvijayan/)
-
-## 🛠 Skills
-R, Python, SAS...
+- 🔭 I’m currently working on baseq
+- 🌱 I’m currently learning SAS
+- 👯 I’m looking to collaborate on R projects
+- 🤔 I’m looking for help with DGE
+- 💬 Ask me about NGS Analysis
+- 📫 How to reach me: [![linkedin](https://img.shields.io/badge/Linkedin-ambuvijayan-blue)](https://www.linkedin.com/in/ambuvijayan/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Avid Board Gamer
