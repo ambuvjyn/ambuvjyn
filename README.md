@@ -1,5 +1,5 @@
 ### Hi, I'm Ambu Vijayan! 👋
-## 🚀 About Me
+### 🚀 About Me
 I'm a Bioinformatician and a R Programmer...
 
 - 🔭 I’m currently working on baseq
